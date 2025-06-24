@@ -16,9 +16,9 @@ Apasionado por crear soluciones web reales con React, Node.js, Django y PostgreS
 ---
 
 ## 📊 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3dwintny&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3dwintny&layout=compact&theme=dark)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=3dwintny&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=3dwintnny&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3dwintnny&layout=compact&theme=dark)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=3dwintnny&theme=dark)
 
 ---
 
